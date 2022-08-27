@@ -3,3 +3,9 @@
 @tailwind utilities;
 
 /* npm tailwindcss init --full */
+
+/* main {
+    background-image: url(../public/images/bg-tablet-pattern.svg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+} */

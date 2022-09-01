@@ -9,3 +9,7 @@
     background-repeat: no-repeat;
     background-position: left bottom;
 } */
+
+.nav.show ul {
+    display: flex;
+}
